@@ -26,3 +26,7 @@ This project is End-to-End Data Engineering project from scratch where I leverag
 ## Dataset Used
 
 https://www.kaggle.com/datasets/ukveteran/adventure-works
+
+## Architecture
+
+![image](https://github.com/user-attachments/assets/992c0cc9-b6e1-4a26-a48c-1f03ce012d1d)
