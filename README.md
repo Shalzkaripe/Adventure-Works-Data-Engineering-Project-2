@@ -25,6 +25,8 @@ This project is End-to-End Data Engineering project from scratch where I leverag
 
 ## Dataset Used
 
+This dataset is very popular and available in the world of data engineering, data analytics, data science that's why I picked this data set let me tell you this data set was full of tables and this gives you an advantage with when you showcase your project that involved so many tables because they know that this person has applied so many joints so many lookups while completing this project so this gives you an advantage and that's why I also took this data set.
+
 https://www.kaggle.com/datasets/ukveteran/adventure-works
 
 ## Architecture
